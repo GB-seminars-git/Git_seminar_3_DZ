@@ -9,3 +9,5 @@ test repository
 dz for the first seminar
 
 conflict resolution
+
+Далеее мы будем работать с этим файлом для домашнего задания 2.
